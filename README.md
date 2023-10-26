@@ -5,9 +5,9 @@
 - <b>Network Traffic Analysis</b>
   - [Network Traffic Analysis Introduction](https://academy.hackthebox.com/module/81/section/773)
   - [Wireshark for Network Security Analysis](https://www.coursera.org/projects/wireshark-for-network-security)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
+- <b>Security Information and Event Management</b>
+  - [Azure Sentinel Lab](https://placeholder) </b></i>
+<!-- <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
@@ -18,6 +18,7 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+-->
 
 <h2> 📄 Certifications</h2>
 
