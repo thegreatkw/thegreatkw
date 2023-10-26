@@ -6,7 +6,7 @@
   - [Network Traffic Analysis Introduction](https://academy.hackthebox.com/module/81/section/773)
   - [Wireshark for Network Security Analysis](https://www.coursera.org/projects/wireshark-for-network-security)
 - <b>Security Information and Event Management</b>
-  - [Azure Sentinel Lab](https://placeholder) </b></i>
+  - [Azure Sentinel Lab](https://github.com/thegreatkw/Sentinel_Lab) </b></i>
 <!-- <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
