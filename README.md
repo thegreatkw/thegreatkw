@@ -4,6 +4,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Traffic Analysis</b>
+  - [Wireshark Network Security Analysis](https://github.com/thegreatkw/WiresharkNetSec)</b></i>
+  - [Network Traffic Analysis](https://github.com/thegreatkw/NetworkTrafficAnalysis)</b></i>
 - <b>Security Information and Event Management</b>
   - [Azure Sentinel Lab](https://github.com/thegreatkw/Sentinel_Lab) </b></i>
 <!-- <b>PowerShell</b>
