@@ -30,14 +30,9 @@
 
 <a href="https://www.linkedin.com/in/k-j-wright/">Cloud Professional</a>
 
-<!-- [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!-- [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
-
-[twitter]: https://twitter.com/kevinwright_io
-<!-- [youtube]: https://www.youtube.com/c/joshmadakor -->
-<!-- [instagram]: https://www.instagram.com/joshmadakor/ -->
+<!-- [twitter]: https://twitter.com/kevinwright_io -->
+<!-- [youtube]: https://www.youtube.com/ -->
+<!-- [instagram]: https://www.instagram.com/ -->
 [linkedin]: https://linkedin.com/in/k-j-wright
 
 <!--
