@@ -1,10 +1,8 @@
 <h1>Hi, I'm Kevin! <br/><a href="https://www.linkedin.com/in/k-j-wright/">Cloud Professional</a>
-  
+
+<h2>👨‍💻 Cloud Engineering Projects:</h2>  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Network Traffic Analysis</b>
-  - [Network Traffic Analysis Introduction](https://academy.hackthebox.com/module/81/section/773)
-  - [Wireshark for Network Security Analysis](https://www.coursera.org/projects/wireshark-for-network-security)
 - <b>Security Information and Event Management</b>
   - [Azure Sentinel Lab](https://github.com/thegreatkw/Sentinel_Lab) </b></i>
 <!-- <b>PowerShell</b>
