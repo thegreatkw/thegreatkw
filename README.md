@@ -28,7 +28,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-<a href="https://www.linkedin.com/in/k-j-wright/">Cloud Professional</a>
+<!-- <a href="https://www.linkedin.com/in/k-j-wright/">Cloud Professional</a> -->
 
 <!-- [twitter]: https://twitter.com/kevinwright_io -->
 <!-- [youtube]: https://www.youtube.com/ -->
