@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cloud Engineering Projects:</h2>  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Traffic Analysis</b>
 - <b>Security Information and Event Management</b>
   - [Azure Sentinel Lab](https://github.com/thegreatkw/Sentinel_Lab) </b></i>
 <!-- <b>PowerShell</b>
