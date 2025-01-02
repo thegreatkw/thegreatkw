@@ -30,7 +30,7 @@
 
 [linkedin]: https://linkedin.com/in/k-j-wright/
 
-<!-- <a href="https://www.linkedin.com/in/k-j-wright/">Cloud Professional</a> -->
+<a href="https://www.linkedin.com/in/k-j-wright/">[linkedin]</a> -->
 <!-- [twitter]: https://twitter.com/kevinwright_io -->
 <!-- [youtube]: https://www.youtube.com/ -->
 <!-- [instagram]: https://www.instagram.com/ -->
