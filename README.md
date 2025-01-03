@@ -1,6 +1,8 @@
-<h1>Hi, I'm Kevin! <br/>
+<h1>Hi, I'm Kevin!</h1><br/>
 
-<h2>Cloud Engineering Projects:</h2>  
+<h2>Cloud Engineering Projects:</h2>
+
+- [GCP - Implement Load Balancing](https://github.com/thegreatkw/gcpLoadBalancing)</b></i>
 <h2>Cybersecurity Projects:</h2>
 
 - <b>Traffic Analysis</b>
