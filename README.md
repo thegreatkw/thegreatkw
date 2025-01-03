@@ -34,7 +34,7 @@
 ![alt text](https://github.com/thegreatkw/thegreatkw/blob/main/unplug.png?raw=true) 
 -->
 
-<a href="https://www.linkedin.com/in/k-j-wright/">![linkedin](https://github.com/user-attachments/assets/0d28a2ae-0dc9-4d1b-b8f5-455cdbfd1a98)&nbsp;</a>
+<a href="https://www.linkedin.com/in/k-j-wright/">![linkedin](https://github.com/user-attachments/assets/0d28a2ae-0dc9-4d1b-b8f5-455cdbfd1a98)&nbsp;&nbsp;</a>
 <a href="https://twitter.com/kevinwright_io/">![x](https://github.com/thegreatkw/thegreatkw/blob/main/twitter.png)</a>
 <!-- [youtube]: https://www.youtube.com/ -->
 <!-- [instagram]: https://www.instagram.com/ -->
