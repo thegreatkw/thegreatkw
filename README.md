@@ -24,13 +24,14 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 -->
 
+<!--
 <h2>Certifications</h2>
 
 <a href="https://www.credly.com/badges/3cab677e-aff7-4a06-96bb-bd9ed02a2a6f/public_url">Google Certified Associate Cloud Engineer</a><br/>
 <a href="https://www.credly.com/badges/346a9590-fe4e-4665-b44f-c56919614ec0/public_url">CompTIA Security+ ce</a><br/>
 <a href="https://www.credly.com/badges/bbcf56dc-9b55-4cb4-8d24-522ae34a4c51/public_url">AWS Certified Cloud Practitioner</a><br/>
 <a href="https://www.credly.com/badges/1a405a36-bfb4-4c2a-bd38-e1d51e7d3592/public_url">Google Cybersecurity</a><br/>
-
+-->
 
 <h2>Connect with me:</h2>
 <!--
