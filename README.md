@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kevin!</h1>
 
-<h2>Cloud Engineering Projects:</h2>
+<h2>Cloud Projects:</h2>
 
 - [GCP - Implement Load Balancing](https://github.com/thegreatkw/gcpLoadBalancing)</b></i>
 - [GCP - Building Infrastructure with Terraform](https://github.com/thegreatkw/gcpInfrastructureWithTerraform)</b></i>
