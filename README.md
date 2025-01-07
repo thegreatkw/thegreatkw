@@ -3,6 +3,7 @@
 <h2>Cloud Engineering Projects:</h2>
 
 - [GCP - Implement Load Balancing](https://github.com/thegreatkw/gcpLoadBalancing)</b></i>
+- [GCP - Building Infrastructure with Terraform](https://github.com/thegreatkw/gcpInfrastructureWithTerraform)</b></i>
 
 <h2>Cybersecurity Projects:</h2>
 
